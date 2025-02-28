@@ -2,15 +2,123 @@
   "nfts": [
     {
       "id": 0,
-      "name": "Blue Circle",
-      "description": "A blue circle NFT from the Shapes Collection",
-      "image": "https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png"
+      "name": "Corgi in the Park",
+      "description": "A happy corgi enjoying a sunny day in the park.",
+      "image": "https://pixabay.com/photos/corgi-dog-pet-animal-canine-5158873/"
     },
     {
       "id": 1,
-      "name": "Green Circle",
-      "description": "A green circle NFT from the Shapes Collection",
-      "image": "https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/1.png"
+      "name": "Corgi Puppy",
+      "description": "An adorable corgi puppy with a playful expression.",
+      "image": "https://www.pexels.com/photo/adorable-corgi-puppy-4587993/"
+    },
+    {
+      "id": 2,
+      "name": "Corgi in the Snow",
+      "description": "A corgi playing in the snow, looking excited.",
+      "image": "https://unsplash.com/photos/corgi-snow"
+    },
+    {
+      "id": 3,
+      "name": "Corgi with a Ball",
+      "description": "A corgi holding a ball, ready to play fetch.",
+      "image": "https://www.shutterstock.com/image-photo/corgi-dog-playing-ball-123456789"
+    },
+    {
+      "id": 4,
+      "name": "Corgi in a Field",
+      "description": "A corgi running through a field of flowers.",
+      "image": "https://www.gettyimages.com/detail/photo/corgi-in-field-987654321"
+    },
+    {
+      "id": 5,
+      "name": "Corgi on the Beach",
+      "description": "A corgi enjoying a day at the beach.",
+      "image": "https://www.pexels.com/photo/corgi-on-beach-1234567/"
+    },
+    {
+      "id": 6,
+      "name": "Corgi in a Sweater",
+      "description": "A corgi wearing a cozy sweater.",
+      "image": "https://pixabay.com/photos/corgi-sweater-123456/"
+    },
+    {
+      "id": 7,
+      "name": "Corgi with Sunglasses",
+      "description": "A cool corgi wearing sunglasses.",
+      "image": "https://unsplash.com/photos/corgi-sunglasses"
+    },
+    {
+      "id": 8,
+      "name": "Corgi and a Cat",
+      "description": "A corgi and a cat sitting together.",
+      "image": "https://www.shutterstock.com/image-photo/corgi-cat-123456789"
+    },
+    {
+      "id": 9,
+      "name": "Corgi in a Car",
+      "description": "A corgi sticking its head out of a car window.",
+      "image": "https://www.gettyimages.com/detail/photo/corgi-in-car-987654321"
+    },
+    {
+      "id": 10,
+      "name": "Corgi with a Hat",
+      "description": "A corgi wearing a cute hat.",
+      "image": "https://www.pexels.com/photo/corgi-with-hat-1234567/"
+    },
+    {
+      "id": 11,
+      "name": "Corgi in Autumn Leaves",
+      "description": "A corgi playing in autumn leaves.",
+      "image": "https://pixabay.com/photos/corgi-autumn-leaves-123456/"
+    },
+    {
+      "id": 12,
+      "name": "Corgi and a Puppy",
+      "description": "A corgi interacting with a puppy.",
+      "image": "https://unsplash.com/photos/corgi-puppy"
+    },
+    {
+      "id": 13,
+      "name": "Corgi with a Toy",
+      "description": "A corgi playing with its favorite toy.",
+      "image": "https://www.shutterstock.com/image-photo/corgi-toy-123456789"
+    },
+    {
+      "id": 14,
+      "name": "Corgi in the Garden",
+      "description": "A corgi exploring a beautiful garden.",
+      "image": "https://www.gettyimages.com/detail/photo/corgi-in-garden-987654321"
+    },
+    {
+      "id": 15,
+      "name": "Corgi on a Hike",
+      "description": "A corgi hiking on a trail.",
+      "image": "https://www.pexels.com/photo/corgi-hiking-1234567/"
+    },
+    {
+      "id": 16,
+      "name": "Corgi with a Bowtie",
+      "description": "A corgi dressed up with a bowtie.",
+      "image": "https://pixabay.com/photos/corgi-bowtie-123456/"
+    },
+    {
+      "id": 17,
+      "name": "Corgi and a Baby",
+      "description": "A corgi sitting next to a baby.",
+      "image": "https://unsplash.com/photos/corgi-baby"
+    },
+    {
+      "id": 18,
+      "name": "Corgi in the Rain",
+      "description": "A corgi walking in the rain with a raincoat.",
+      "image": "https://www.shutterstock.com/image-photo/corgi-rain-123456789"
+    },
+    {
+      "id": 19,
+      "name": "Corgi at a Picnic",
+      "description": "A corgi enjoying a picnic with its owner.",
+      "image": "https://www.gettyimages.com/detail/photo/corgi-picnic-987654321"
     }
   ]
 }
